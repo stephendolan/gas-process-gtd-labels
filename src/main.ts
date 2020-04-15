@@ -37,7 +37,7 @@ class TaskEmail {
 
   private getSubject(): string {
     const title = `-- ${this.prefix} ${this.message.subject}`;
-    const dueDate = `# tomorrow`;
+    const dueDate = `# today`;
 
     return `${title} ${dueDate}`;
   }
