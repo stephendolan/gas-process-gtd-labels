@@ -6,3 +6,8 @@
   version "1.0.12"
   resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.12.tgz#1aa919434eaf550632a074a0bf3ea9c5c18c6139"
   integrity sha512-Vrg53MAJy1nSDmfCBmQxeUYjwkqdcfjLilyf5UswzdZd/dy4IuPgdJZgtiQiINIidltxr+TT2XBV6O0CIQYWFQ==
+
+prettier@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.4.tgz#2d1bae173e355996ee355ec9830a7a1ee05457ef"
+  integrity sha512-SVJIQ51spzFDvh4fIbCLvciiDMCrRhlN3mbZvv/+ycjvmF5E73bKdGfU8QDLNmjYJf+lsGnDBC4UUnvTe5OO0w==
