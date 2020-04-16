@@ -58,7 +58,7 @@ function defineUserProperties() {
 
 function main() {
   defineUserProperties();
-  const labelsToProcess = ["@action", "@waiting"];
+  const labelsToProcess = ["@action", "@waiting", "@project"];
 
   labelsToProcess.forEach(labelText => {
     const label = GmailApp.getUserLabelByName(labelText);
