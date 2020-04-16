@@ -60,10 +60,10 @@ function main() {
   defineUserProperties();
   const labelsToProcess = ["@action", "@waiting", "@project"];
 
-  labelsToProcess.forEach(labelText => {
+  labelsToProcess.forEach((labelText) => {
     const label = GmailApp.getUserLabelByName(labelText);
 
-    label.getThreads().forEach(thread => {
+    label.getThreads().forEach((thread) => {
       const latestMessage = thread.getMessages().pop();
 
       if (latestMessage === undefined) return;
