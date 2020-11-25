@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/google-apps-script@^1.0.19":
-  version "1.0.19"
-  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.19.tgz#accaa18527f30d319e5ba7cf4b1c4301f3eedf6d"
-  integrity sha512-Mi6hIn+bzTlN9XcoSLg75Fb1txkfKvHGpTjIIlEGvtCfYzvwtGum6VqpJI6qffnMfx4rpcWSrHl1CWcSIho97Q==
+"@types/google-apps-script@^1.0.20":
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.20.tgz#f4c1a7ef314dfb6fdaee6b004df82bc2f57a373a"
+  integrity sha512-fFhz4RXlOttCEBheu7BWyNkdS+O9wx5Aa7d/ygD2SE+aA8S/G7ZhzDJx0h3JS+T5WvrrDpv6E3TPm1vtbx+XLw==
 
 prettier@^2.2.0:
   version "2.2.0"
