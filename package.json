@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@types/google-apps-script": "^1.0.27",
+    "@types/google-apps-script": "^1.0.28",
     "prettier": "^2.2.1"
   }
 }
